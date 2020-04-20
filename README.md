@@ -11,3 +11,7 @@ Video 1
 https://www.youtube.com/watch?v=sgscChKfGyg&t=1s
 Video 3
 https://www.youtube.com/watch?v=2FPNb1XECGs
+
+2) Reference for useful analysis to do with Strava.
+
+https://knanne.github.io/notebooks/visualize_strava_data_in_python.html
